@@ -1,0 +1,3 @@
+[submodule "Vulkan/vendor/tinyobjloader"]
+	path = Vulkan/vendor/tinyobjloader
+	url = https://github.com/tinyobjloader/tinyobjloader.git
